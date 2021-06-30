@@ -1,0 +1,29 @@
+{
+    "patient": [
+        {
+            "patientDetails": {
+                "id": 2,
+                "firstName": "SOPHIA",
+                "lastName": "ROBERTS",
+                "mrn": "MH36549879",
+                "fin": "MH46846589"
+            }
+        }
+    ],
+    "child": [
+        {
+            "childDetails": [
+                {
+                    "resultCopiedDateTime": "2021-06-06T18:30:00",
+                    "id": 6,
+                    "firstName": "AALIYAH",
+                    "lastName": "ROBERTS",
+                    "mrn": "MH112973 ",
+                    "fin": "MH284550"
+                }
+            ]
+        }
+    ],
+    "category": []
+}
+

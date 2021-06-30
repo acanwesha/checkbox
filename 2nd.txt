@@ -1,0 +1,115 @@
+{
+    "patient": [
+        {
+            "patientDetails": {
+                "id": 1,
+                "firstName": "EMMA",
+                "lastName": "ESPINOSA",
+                "mrn": "MX13216584",
+                "fin": "MX26548913"
+            }
+        }
+    ],
+    "child": [
+        {
+            "childDetails": [
+                {
+                    "id": 10,
+                    "firstName": "AARAV",
+                    "lastName": "ESPINOSA",
+                    "mrn": "MX223452 ",
+                    "fin": "MX774604 "
+                }
+            ]
+        }
+    ],
+    "category": [
+        {
+            "id": 12,
+            "displayName": "DELIVERY_INFORMATION",
+            "result": [
+                {
+                    "id": 20,
+                    "displayName": "PREGNANCY_OUTCOME",
+                    "value": "VAGINAL_BIRTH"
+                },
+                {
+                    "id": 21,
+                    "displayName": "DATE_ TIME_OF_BIRTH"
+                },
+                {
+                    "id": 22,
+                    "displayName": "GESTATIONAL_AGE "
+                },
+                {
+                    "id": 23,
+                    "displayName": "DELIVERY_ASSISTANCE"
+                },
+                {}
+            ]
+        },
+        {
+            "id": 13,
+            "displayName": "NEWBORN_INFORMATION",
+            "result": [
+                {
+                    "id": 24,
+                    "displayName": "NEWBORN_NAME"
+                },
+                {
+                    "id": 25,
+                    "displayName": "GENDER",
+                    "value": "MALE"
+                },
+                {
+                    "id": 26,
+                    "displayName": "BIRTH_OUTCOME"
+                },
+                {
+                    "id": 27,
+                    "displayName": "BIRTH_WEIGHT"
+                },
+                {}
+            ]
+        },
+        {
+            "id": 14,
+            "displayName": "LABOR_INFORMATION",
+            "result": [
+                {
+                    "id": 28,
+                    "displayName": "LABOR_ONSET_DATE_TIME"
+                },
+                {
+                    "id": 29,
+                    "displayName": "LENGTH_OF_LABOR"
+                },
+                {
+                    "id": 30,
+                    "displayName": "TOTAL_LENGTH_OF_LABOR"
+                },
+                {}
+            ]
+        },
+        {
+            "id": 15,
+            "displayName": "COMPLICATIONS",
+            "result": [
+                {
+                    "id": 31,
+                    "displayName": "MOTHER_COMPLICATIONS"
+                },
+                {
+                    "id": 32,
+                    "displayName": "BIRTH_COMPLICATIONS"
+                },
+                {
+                    "id": 33,
+                    "displayName": "NEONATE_COMPLICATIONS"
+                },
+                {}
+            ]
+        }
+    ]
+}
+
